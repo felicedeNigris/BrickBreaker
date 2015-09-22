@@ -1,0 +1,9 @@
+h3{
+  font-family:helvetica;
+  text-align:center;
+}
+canvas{
+  background:#eee; 
+  display:block;
+  margin:auto;
+}
